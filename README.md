@@ -1,1 +1,1 @@
-# IndustrialTalk
+# Industrial Talk
